@@ -7,5 +7,4 @@ class PostRequest {
     public string $name;
     /** @var int[] */
     public $members;
-    
 };
