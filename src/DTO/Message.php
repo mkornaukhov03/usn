@@ -21,5 +21,3 @@ class Message
         return JsonEncoder::decode($json, Message::class);
     }
 };
-
-

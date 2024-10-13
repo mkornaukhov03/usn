@@ -12,7 +12,6 @@ require_once "DTO/Message.php";
  * TODO
  */
 
-
 function main()
 {
     $msg = new \DTO\Message(0, "example");

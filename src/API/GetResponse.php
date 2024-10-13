@@ -4,7 +4,8 @@ namespace API;
 
 require_once "../DTO/Message.php";
 
-class GetResponse {
+class GetResponse
+{
     /** @var \DTO\Message[] */
     public $messages;
 };

@@ -2,5 +2,6 @@
 
 require_once 'DTO/Message.php';
 
-interface IEngine {
+interface IEngine
+{
 };

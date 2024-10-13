@@ -2,7 +2,8 @@
 
 namespace API;
 
-class PostRequest {
+class PostRequest
+{
     public int $owner_id;
     public string $name;
     /** @var int[] */

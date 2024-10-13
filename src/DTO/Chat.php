@@ -29,5 +29,3 @@ class Chat
         return JsonEncoder::decode($json, Message::class);
     }
 };
-
-

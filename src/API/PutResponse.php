@@ -2,6 +2,7 @@
 
 namespace API;
 
-class PutRequest {
+class PutRequest
+{
     // Success is determined by the http response header
 };

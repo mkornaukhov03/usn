@@ -2,6 +2,7 @@
 
 namespace API;
 
-class PostResponse {
+class PostResponse
+{
     public int $chat_id;
 };
