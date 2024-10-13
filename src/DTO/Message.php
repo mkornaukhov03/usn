@@ -12,6 +12,7 @@ class Message
     {
         $this->user_id = $user_id;
         $this->text = $text;
+        $this->timestamp = time();
     }
 
     /** @returns Message */

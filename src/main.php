@@ -4,9 +4,9 @@ require_once "DTO/Message.php";
 
 /**
  * Messenger functionality:
- * GET  /v1/chats?chat_id=CHAT_ID -- get last (at most 10) messages from chat
- * PUT  /v1/chats?chat_id=CHAR_ID -- put new message to chat
- * POST /v1/chats                 -- create new chat
+ * GET  /v1/chats -- get last (at most 10) messages from chat
+ * PUT  /v1/chats -- put new message to chat
+ * POST /v1/chats -- create new chat
  *
  * Blog functionality:
  * TODO
