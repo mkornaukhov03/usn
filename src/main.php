@@ -1,6 +1,6 @@
 <?php
 
-require_once "dto/Message.php";
+require_once "DTO/Message.php";
 
 /**
  * Messenger functionality:
